@@ -18,6 +18,10 @@ public class SampleProject {
         
         System.out.println("\nHello "+name+" your age is "+(2025-byear));
         
+        if( int number %2 ){
+        
+        }
+        
         if((2025-byear) >= 18 ){
             System.out.println("Votable");
         }else{
